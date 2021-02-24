@@ -5,6 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  background-image: url('https://boricuaonline.com/wp-content/uploads/2020/09/ElMorroSanJuanSide01.jpg');
+  background-repeat: repeat-y;
+  background-size: cover;
+  
 }
 
 code {
